@@ -28,4 +28,4 @@ We will update train.py later.
 ```
     python test.py --pretrain_model_path
 ```
-where `--pretrain_model_path` is the directory containing the trained model. 'bestAUC.ckpt'  is the trained model on the dataset UT-Zappos.
+where `--pretrain_model_path` is the directory containing the trained model. 
