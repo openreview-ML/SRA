@@ -28,4 +28,4 @@ We will update train.py later.
 ```
     python test.py --pretrain_model_path
 ```
-where `--pretrain_model_path` is the directory containing the trained model. 
+where `--pretrain_model_path` is the directory containing the trained model. We provide trained models of UT-zappos([Google Drive](https://drive.google.com/drive/folders/1IBGfPXleu4E2BLTI4TlUL1jYSuwahbYC?usp=sharing)).
